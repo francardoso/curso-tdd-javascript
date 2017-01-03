@@ -1,0 +1,24 @@
+{
+  "name": "curso-tdd-javascript",
+  "version": "1.0.0",
+  "description": "Biblioteca JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francardoso/curso-tdd-javascript"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "francardoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francardoso/curso-tdd-javascript/issues"
+  },
+  "homepage": "https://github.com/francardoso/curso-tdd-javascript"
+}
